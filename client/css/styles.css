@@ -1,0 +1,21 @@
+body{
+	background-color: black;
+	color: white;
+}
+h1{
+	color: white;
+	text-align: center;
+}
+#p1{
+	color: whitesmoke;
+	font-size: 50px;
+}
+.par-class{
+	font-weight: bold;
+	font-size: 40px;
+}
+img{
+	border-radius: 8px;
+	width: 50%;
+	height: 50%;
+}
